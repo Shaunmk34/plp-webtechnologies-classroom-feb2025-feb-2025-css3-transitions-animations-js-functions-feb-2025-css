@@ -1,0 +1,12 @@
+button {
+  background-color: #085072;
+  color: rgb(66, 7, 48);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #0b5f2e;
+}
